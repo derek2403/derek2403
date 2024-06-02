@@ -2,26 +2,26 @@
 👋 Hi there! I'm a student from Malaysia with a passion for programming and app development. I love diving into code and turning ideas into functional applications.
 
 ## 💻My Interests
-<b>Programming</b>
+<b>Programming</b><br/>
 I'm constantly exploring new programming languages and technologies to expand my skill set. Whether it's building web applications, mobile apps, or experimenting with new frameworks, I enjoy every bit of the journey.
 
-<b>App Development</b>
+<b>App Development</b><br/>
 Creating user-friendly and efficient applications is my forte. I'm always on the lookout for innovative solutions to everyday problems.
 
-<b>Machine Learning</b>
+<b>Machine Learning</b><br/>
 I'm fascinated by the potential of machine learning and its applications in various fields. I'm keen on learning and implementing algorithms that can make systems smarter and more efficient.
 
-<b>Blockchain Development</b>
+<b>Blockchain Development</b><br/>
 Blockchain technology intrigues me with its promise of decentralized solutions and enhanced security. I'm eager to explore its applications and contribute to projects that leverage blockchain.
 
 ## 📈Goals
-<b>Skill Enhancement</b>
+<b>Skill Enhancement</b><br/>
 My goal is to become proficient in various programming languages and development tools, and to keep up with the latest industry trends.
 
-<b>Project Development</b>
+<b>Project Development</b><br/>
 I aim to work on impactful projects that can make a difference, whether it's a simple utility app or a complex software solution.
 
-<b>Personal Growth</b>
+<b>Personal Growth</b><br/>
 Beyond technical skills, I'm focused on becoming a better person, both professionally and personally, through consistent effort and self-reflection.
 
 
