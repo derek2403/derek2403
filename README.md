@@ -1,5 +1,25 @@
-# 💫 About Me:
-About Me<br>👋 Hi there! I'm a student from Malaysia with a passion for programming and app development. I love diving into code and turning ideas into functional applications.<br><br>My Interests:<br>Programming<br>I'm constantly exploring new programming languages and technologies to expand my skill set. Whether it's building web applications, mobile apps, or experimenting with new frameworks, I enjoy every bit of the journey.<br>App Development<br>Creating user-friendly and efficient applications is my forte. I'm always on the lookout for innovative solutions to everyday problems.<br>Continuous Learning<br>I believe in the power of continuous learning and self-improvement. I'm always eager to learn new concepts and apply them in my projects.<br><br><br>Goals<br>Skill Enhancement<br>My goal is to become proficient in various programming languages and development tools, and to keep up with the latest industry trends.<br>Project Development<br>I aim to work on impactful projects that can make a difference, whether it's a simple utility app or a complex software solution.<br>Personal Growth<br>Beyond technical skills, I'm focused on becoming a better person, both professionally and personally, through consistent effort and self-reflection.
+💫 About Me:
+👋 Hi there! I'm a student from Malaysia with a passion for programming and app development. I love diving into code and turning ideas into functional applications.
+
+My Interests:
+Programming:
+I'm constantly exploring new programming languages and technologies to expand my skill set. Whether it's building web applications, mobile apps, or experimenting with new frameworks, I enjoy every bit of the journey.
+
+App Development:
+Creating user-friendly and efficient applications is my forte. I'm always on the lookout for innovative solutions to everyday problems.
+
+Continuous Learning:
+I believe in the power of continuous learning and self-improvement. I'm always eager to learn new concepts and apply them in my projects.
+
+Goals:
+Skill Enhancement:
+My goal is to become proficient in various programming languages and development tools, and to keep up with the latest industry trends.
+
+Project Development:
+I aim to work on impactful projects that can make a difference, whether it's a simple utility app or a complex software solution.
+
+Personal Growth:
+Beyond technical skills, I'm focused on becoming a better person, both professionally and personally, through consistent effort and self-reflection.
 
 
 ## 🌐 Socials:
