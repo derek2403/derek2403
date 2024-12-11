@@ -1,4 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derek2403&layout=compact&cache_seconds=1800)
 
 ## 💫 About Me
 👋 Hi there! I'm a student from Malaysia with a passion for programming and app development. I love diving into code and turning ideas into functional applications.
