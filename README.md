@@ -48,7 +48,8 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 ---
 
 ## 💡 Project Showcase  
-To be added, still undecisive
+- **AI project about splitting LLMs into shards to reduce hardware constraint and cost**
+- Check it out here: [Project Link](https://github.com/TeeeeeTeeeee)
 
 ---
 
