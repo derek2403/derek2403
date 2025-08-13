@@ -47,9 +47,21 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 
 ---
 
-## 💡 Project Showcase  
-- **AI project about splitting LLMs into shards to reduce hardware constraint and cost**
-- Check it out here: [Project Link](https://github.com/TeeeeeTeeeee)
+## 💡 Current Projects
+
+- **Distributed LLM Sharding for Cost-Effective Inference** *(Primary Focus)*  
+  Conducting research and development on splitting large language models into computational shards to reduce hardware requirements and operational costs.  
+  [GitHub Repository](https://github.com/TeeeeeTeeeee)
+
+- **AI-Powered Secure Smart Wallet (Near Protocol)** *(Paused)*  
+  Designing an intelligent, security-centric smart wallet leveraging Near Protocol.  
+  *Currently paused due to prioritization of active commitments.*  
+  [GitHub Repository](https://github.com/derek2403/Near-Smart-Wallet)
+
+- **Decentralized Machine Learning Platform (Near Protocol)** *(In Redesign)*  
+  Re-architecting the platform to enable collaborative, privacy-preserving machine learning in a decentralized environment.  
+  [GitHub Repository](https://github.com/derek2403/HowToTrainYourModel)
+
 
 ---
 
