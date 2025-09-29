@@ -30,7 +30,7 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 | **BUIDL Asia Seoul Hackathon 2025** | **Champion 🥇, Gensyn (1st) 🥇, Nethermind (2nd) 🥈, Near (Winner) 🏅** | [Project Repo](https://github.com/derek2403/CureMeBaby) |
 | **EasyA X Ripple Singapore Hackathon 2025** | **2nd Place** 🥈 | [Project Repo](https://github.com/derek2403/EasyA-Wiser) |
 | **ETHGlobal Taipei Hackathon 2025** | **1inch (2nd) 🥈, Celo (Pool) 🏅** | [Project Repo](https://github.com/derek2403/memest-cutest-platform) |
-| **ETHGlobal Trifecta 2025** | **TEE (2nd) 🥈, Finalist 🎯** | [Project Repo](https://github.com/derek2403/TeeTee) |
+| **ETHGlobal Trifecta 2025** | **TEE (2nd) 🥈, Finalist 🏆** | [Project Repo](https://github.com/derek2403/TeeTee) |
 | **Eigen Games ETH Denver 2025** | **Hyperbolic (3rd)** 🥉 | [Project Repo](https://github.com/derek2403/Hyperbolic-AgentKit) |
 | **Consensus Hong Kong Hackathon 2025** | **Aptos (3rd)** 🥉 | [Project Repo](https://github.com/derek2403/grand-theft-aptos) |
 | **ETHGlobal Agentic Ethereum 2025** | **Flow (2nd)** 🥈 | [Project Repo](https://github.com/derek2403/4AI-1Human) |
