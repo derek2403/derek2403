@@ -25,7 +25,7 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 |-------------------|-----------------------------------------------|-----------------------|
 | **Token2049 Hackathon Singapore** | **Celo (1st) 🥇, Top 5 Finalist 🏆**  | [Project Repo](https://github.com/derek2403/token2049) |
 | **ETHGlobal New Delhi Hackathon 2025** | **Flow (1st) 🥇, Hedera (Best Overall Project) 🥇**  | [Project Repo](https://github.com/derek2403/ethindia) |
-| **ETHTokyo 2025** | **AI Track Champion** 🥇 | [Project Repo](https://github.com/derek2403/ethtokyo) |
+| **ETHTokyo 2025** | **AI Track Champion, Finalist** 🥇 | [Project Repo](https://github.com/derek2403/ethtokyo) |
 | **DevQuest 2025** | **Top 10 Finalist** 🎯 | No Repo |
 | **IOTA Malaysia Hackathon 2025** | **6th - 10th Place** 🎯 | [Project Repo](https://github.com/derek2403/iota-hackathon) |
 | **ImagineHack 2025** | **Champion** 🥇 | [Project Repo](https://github.com/derek2403/tt) |
