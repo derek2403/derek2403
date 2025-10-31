@@ -40,7 +40,7 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 | **UiTM Mini Hackathon 2025** | **2nd Place 🥈** | [Project Repo](https://github.com/JingYuan0926/solananft) |
 | **PayHack 2024** | **3rd Place 🥉** | [Project Repo](https://github.com/derek2403/payhack) |
 | **ETHGlobal Bangkok Hackathon 2024** | **CDP (Pool) 🏅, Blockscout (Pool) 🏅, Coinbase (Pool) 🏅** | [Project Repo](https://github.com/derek2403/eThAi) |
-| **ETHKL HACKATHON 2024** | **Finalist 🎯, ICP (2nd) 🥈, WorldCoin (Pool) 🏅, Scroll (Pool) 🏅, Ora (Pool) 🏅** | [Project Repo](https://github.com/derek2403/AI-Food-Rating-App) |
+| **ETHKL Hackathon 2024** | **Finalist 🎯, ICP (2nd) 🥈, WorldCoin (Pool) 🏅, Scroll (Pool) 🏅, Ora (Pool) 🏅** | [Project Repo](https://github.com/derek2403/AI-Food-Rating-App) |
 | **ETHGlobal Singapore Hackathon 2024** | **Near (Winner) 🏅, WorldCoin (Pool) 🏅** | [Project Repo](https://github.com/derek2403/NEARer) |
 | **UM DSDR 2024** | **Consolation 🎖️** | No Repo |
 | **Monash Hackfest 2024** | **9th Place 🎯** | [Project Repo](https://github.com/JingYuan0926/Hackfest) |
