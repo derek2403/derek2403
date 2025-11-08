@@ -14,7 +14,7 @@ Hi! I’m **Derek**, a passionate **Y3 Computer Science Student** 🎓 with a kn
 I thrive in **full-stack development**, **AI/ML**, and **blockchain**, always eager to push the boundaries of innovation.  
 When I’m not coding, you’ll find me exploring new tech trends, mentoring peers, or participating in hackathons 🏆. 
 
-<strong>🧑‍💻 Currently Working As: </strong> 🧑‍🎓 Student  |   🚀 Oasis Protocol Sentinel
+<strong>🧑‍💻 Currently Working As: </strong> 🧑‍🎓 Student   |   🚀 Oasis Protocol Sentinel   |   👨‍💼 Intern @ ALPHV Technologies
 
 
 ---
