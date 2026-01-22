@@ -23,7 +23,8 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 
 | 📅 Hackathon & Year | 🏆 Awards Won | 🔗 Project Repository |
 |-------------------|-----------------------------------------------|-----------------------|
-| **Forte Hacks by Flow 2025** | **Existing Codebase (3st) 🥉**  | [Project Repo](https://github.com/derek2403/dhal-way) |
+| **First Movers Sprint VN 2026** | **DeFi (1st) 🏆**  | [Project Repo](https://github.com/derek2403/six-seven) |
+| **Forte Hacks by Flow 2025** | **Existing Codebase (3rd) 🥉**  | [Project Repo](https://github.com/derek2403/dhal-way) |
 | **ETHOnline 2025** | **BlockScout (1st) 🥇**  | [Project Repo](https://github.com/derek2403/pet-pet) |
 | **Token2049 Hackathon Singapore 2025** | **Celo (1st) 🥇, Top 5 Finalist 🏆**  | [Project Repo](https://github.com/derek2403/token2049) |
 | **ETHGlobal New Delhi Hackathon 2025** | **Flow (1st) 🥇, Hedera (Best Overall Project) 🥇**  | [Project Repo](https://github.com/derek2403/ethindia) |
