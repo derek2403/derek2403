@@ -23,6 +23,8 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 
 | 📅 Hackathon & Year | 🏆 Awards Won | 🔗 Project Repository |
 |-------------------|-----------------------------------------------|-----------------------|
+| **ETHGlobal Cannes Hackathon 2026** | **Top 10 Finalist 🏆, World (1st) 🥇, 0G (2nd) 🥈, Hedera (1st) 🥇**  | [Project Repo](https://github.com/derek2403/cannes2026) |
+| **ETHCC 0G Zero Coding 2026** | **Champion 🏆**  | [Project Repo](https://github.com/derek2403/0g) |
 | **ETHDenver 2026** | **Hedera SDK (2nd) 🥈, 0G iNFT (1st), Canton (DevTools) 🏆**  | [Project Repo 1](https://github.com/derek2403/ethdenver), [Project Repo 2](https://github.com/derek2403/spark) |
 | **ETHGlobal HackMoney 2026** | **ENS (Pool) 🎯**  | [Project Repo](https://github.com/derek2403/hackmoney) |
 | **First Movers Sprint Vietnam 2026** | **DeFi (1st) 🏆**  | [Project Repo](https://github.com/derek2403/six-seven) |
