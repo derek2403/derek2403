@@ -23,6 +23,9 @@ When I’m not coding, you’ll find me exploring new tech trends, mentoring pee
 
 | 📅 Hackathon & Year | 🏆 Awards Won | 🔗 Project Repository |
 |-------------------|-----------------------------------------------|-----------------------|
+| **Codex Hackathon 2026** | **ElevenLabs Prize**  | [Project Repo](https://github.com/avoisavo/codex) |
+| **SuperteamMY World Cup Hackathon** | **3rd Place 🥉**  | [Project Repo](https://github.com/derek2403/worldcup) |
+| **ETHGlobal New York Hackathon 2026** | **Arc (1st) 🥇, World (2nd) 🥈, Hedera (1st) 🥇 🥉**  | [Project Repo](https://github.com/derek2403/ethnyc) |
 | **Monad Blitz NYC 2026** | **3rd Place 🥉**  | [Project Repo](https://github.com/derek2403/blitznyc) |
 | **Hedera Hello Future Apex Hackathon 2026** | **Open Claw Track (1st) 🏆**  | [Project Repo](https://github.com/JingYuan0926/spark) |
 | **Solana Network State Spring 2026** | **Honorable Mention**  | [Project Repo](https://github.com/derek2403/frontier) |
