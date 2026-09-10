@@ -1,131 +1,98 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there, I'm <a href="#">Derek</a> 👋</h1>
-<h3 align="center">💻 Computer Science Student | 🚀 Tech Enthusiast | 🌱 Lifelong Learner | 🔒 TEE Researcher</h3>
+# Hi, I'm Derek
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F78D&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Hackathon+Enthusiats+%F0%9F%8F%86" alt="Typing animation" />
-</p>
+I'm a Computer Science student and software builder focused on blockchain infrastructure, secure computation, and products that make on-chain systems easier to use.
 
----
+I enjoy turning ambitious ideas into working prototypes, especially through hackathons. My recent work spans Solana, cross-chain infrastructure, trusted execution environments, DeFi, and autonomous systems.
 
-## 🧑‍💻 About Me  
+<table>
+  <tr>
+    <td align="center"><strong>39</strong><br>Hackathon Wins</td>
+    <td align="center"><strong>61</strong><br>Award Placements</td>
+  </tr>
+</table>
 
-Hi! I’m **Derek**, a passionate **Y3 Computer Science Student** 🎓 with a knack for building impactful digital solutions.  
-I thrive in **full-stack development**, **AI/ML**, and **blockchain**, always eager to push the boundaries of innovation.  
-When I’m not coding, you’ll find me exploring new tech trends, mentoring peers, or participating in hackathons 🏆. 
+## Experience
 
-<strong>🧑‍💻 Currently Working As: </strong> 🧑‍🎓 Student   |   🚀 Oasis Protocol Sentinel   |   👨‍💼 Intern @ ALPHV Technologies
+### Current
 
+- Co-founder, **SODA** *(a cross-chain ownership and signing primitive on Solana)*
+- **Oasis Protocol Sentinel**
+- **Core Team, Claw Collective** *(formerly OpenClaw KL)*
 
----
+### Past
 
-## 🏆 Hackathon Achievements  
+- **Guild Lead, Superteam Malaysia**
+- **Intern, ALPHV Technologies**
 
-| 📅 Hackathon & Year | 🏆 Awards Won | 🔗 Project Repository |
-|-------------------|-----------------------------------------------|-----------------------|
-| **Codex Hackathon 2026** | **ElevenLabs Prize**  | [Project Repo](https://github.com/avoisavo/codex) |
-| **SuperteamMY World Cup Hackathon** | **3rd Place 🥉**  | [Project Repo](https://github.com/derek2403/worldcup) |
-| **ETHGlobal New York Hackathon 2026** | **Arc (1st) 🥇, World (2nd) 🥈, Hedera (1st) 🥇 🥉**  | [Project Repo](https://github.com/derek2403/ethnyc) |
-| **Monad Blitz NYC 2026** | **3rd Place 🥉**  | [Project Repo](https://github.com/derek2403/blitznyc) |
-| **Hedera Hello Future Apex Hackathon 2026** | **Open Claw Track (1st) 🏆**  | [Project Repo](https://github.com/JingYuan0926/spark) |
-| **Solana Network State Spring 2026** | **Honorable Mention**  | [Project Repo](https://github.com/derek2403/frontier) |
-| **ETHGlobal Cannes Hackathon 2026** | **Top 10 Finalist 🏆, World (1st) 🥇, 0G (2nd) 🥈, Hedera (1st) 🥇**  | [Project Repo](https://github.com/derek2403/cannes2026) |
-| **ETHCC 0G Zero Coding 2026** | **Champion 🏆**  | [Project Repo](https://github.com/derek2403/0g) |
-| **ETHDenver 2026** | **Hedera SDK (2nd) 🥈, 0G iNFT (1st), Canton (DevTools) 🏆**  | [Project Repo 1](https://github.com/derek2403/ethdenver), [Project Repo 2](https://github.com/derek2403/spark) |
-| **ETHGlobal HackMoney 2026** | **ENS (Pool) 🎯**  | [Project Repo](https://github.com/derek2403/hackmoney) |
-| **First Movers Sprint Vietnam 2026** | **DeFi (1st) 🏆**  | [Project Repo](https://github.com/derek2403/six-seven) |
-| **Forte Hacks by Flow 2025** | **Existing Codebase (3rd) 🥉**  | [Project Repo](https://github.com/derek2403/dhal-way) |
-| **ETHOnline 2025** | **BlockScout (1st) 🥇**  | [Project Repo](https://github.com/derek2403/pet-pet) |
-| **Token2049 Hackathon Singapore 2025** | **Celo (1st) 🥇, Top 5 Finalist 🏆**  | [Project Repo](https://github.com/derek2403/token2049) |
-| **ETHGlobal New Delhi Hackathon 2025** | **Flow (1st) 🥇, Hedera (Best Overall Project) 🥇**  | [Project Repo](https://github.com/derek2403/ethindia) |
-| **ETHTokyo 2025** | **AI Track Champion 🥇, Finalist 🏆** | [Project Repo](https://github.com/derek2403/ethtokyo) |
-| **DevQuest 2025** | **Top 10 Finalist 🎯** | No Repo |
-| **IOTA Malaysia Hackathon 2025** | **6th - 10th Place** 🎯 | [Project Repo](https://github.com/derek2403/iota-hackathon) |
-| **ImagineHack 2025** | **Champion 🥇** | [Project Repo](https://github.com/derek2403/tt) |
-| **BUIDL Asia Seoul Hackathon 2025** | **Champion 🥇, Gensyn (1st) 🥇, Nethermind (2nd) 🥈, Near (Winner) 🏅** | [Project Repo](https://github.com/derek2403/CureMeBaby) |
-| **EasyA X Ripple Singapore Hackathon 2025** | **2nd Place** 🥈 | [Project Repo](https://github.com/derek2403/EasyA-Wiser) |
-| **ETHGlobal Taipei Hackathon 2025** | **1inch (2nd) 🥈, Celo (Pool) 🏅** | [Project Repo](https://github.com/derek2403/memest-cutest-platform) |
-| **ETHGlobal Trifecta 2025** | **TEE (2nd) 🥈, Finalist 🏆** | [Project Repo](https://github.com/derek2403/TeeTee) |
-| **Eigen Games ETH Denver 2025** | **Hyperbolic (3rd) 🥉** | [Project Repo](https://github.com/derek2403/Hyperbolic-AgentKit) |
-| **Consensus Hong Kong Hackathon 2025** | **Aptos (3rd) 🥉** | [Project Repo](https://github.com/derek2403/grand-theft-aptos) |
-| **ETHGlobal Agentic Ethereum 2025** | **Flow (2nd) 🥈** | [Project Repo](https://github.com/derek2403/4AI-1Human) |
-| **UiTM Mini Hackathon 2025** | **2nd Place 🥈** | [Project Repo](https://github.com/JingYuan0926/solananft) |
-| **PayHack 2024** | **3rd Place 🥉** | [Project Repo](https://github.com/derek2403/payhack) |
-| **ETHGlobal Bangkok Hackathon 2024** | **CDP (Pool) 🏅, Blockscout (Pool) 🏅, Coinbase (Pool) 🏅** | [Project Repo](https://github.com/derek2403/eThAi) |
-| **ETHKL Hackathon 2024** | **Finalist 🎯, ICP (2nd) 🥈, WorldCoin (Pool) 🏅, Scroll (Pool) 🏅, Ora (Pool) 🏅** | [Project Repo](https://github.com/derek2403/AI-Food-Rating-App) |
-| **ETHGlobal Singapore Hackathon 2024** | **Near (Winner) 🏅, WorldCoin (Pool) 🏅** | [Project Repo](https://github.com/derek2403/NEARer) |
-| **UM DSDR 2024** | **Consolation 🎖️** | No Repo |
-| **Monash Hackfest 2024** | **9th Place 🎯** | [Project Repo](https://github.com/JingYuan0926/Hackfest) |
-| **APUBCC Buildstation 2024** | **2nd Place 🥈** | [Project Repo](https://github.com/derek2403/Solana-AI-Blink-Platform) |
-| **APUBCC DevMatch 2024** | **Aptos (Champion) 🥇** | [Project Repo](https://github.com/derek2403/Devmatch) |
-| **Bridg3 Hackathon 2024** | **Sui (3rd) 🥉** | [Project Repo](https://github.com/derek2403/Learn2) |
-| **Hackinsan 2024** | **Champion 🥇** | [Project Repo](https://github.com/derek2403/Motion-Capture-Web-App) |
-| **TARUMT International Hackathon 2024** | **Top 8 🎯** | [Project Repo](https://github.com/derek2403/Cybersecurity-Encryption-Decryption-Project) |
+## What I'm building now
 
----
+### [SODA: Solana-Owned Derived Authority](https://github.com/derek2403/frontier)
 
-## 💡 Current Projects
+SODA enables a Solana wallet or program to own deterministic addresses on other chains and authorize transactions from them.
 
-- **Distributed LLM Sharding for Cost-Effective Inference** *(Primary Focus)*  
-  Conducting research and development on splitting large language models into computational shards to reduce hardware requirements and operational costs.  
-  [GitHub Repository](https://github.com/TeeeeeTeeeee)
+A user can connect Phantom, approve a Solana transaction, and interact with protocols on EVM chains through an address owned by their Solana account, without managing a second wallet or bridging wrapped assets. Solana programs can also control foreign-chain addresses through CPI, opening the door to autonomous vaults, agents, treasuries, and cross-chain applications.
 
-- **AI-Powered Secure Smart Wallet (Near Protocol)** *(Paused)*  
-  Designing an intelligent, security-centric smart wallet leveraging Near Protocol.  
-  *Currently paused due to prioritization of active commitments.*  
-  [GitHub Repository](https://github.com/derek2403/Near-Smart-Wallet)
+The current prototype runs end to end on Solana devnet and Base Sepolia, including Aave deposits and borrowing. SODA is currently a hackathon-stage project and has not been audited.
 
-- **Decentralized Machine Learning Platform (Near Protocol)** *(In Redesign)*  
-  Re-architecting the platform to enable collaborative, privacy-preserving machine learning in a decentralized environment.  
-  [GitHub Repository](https://github.com/derek2403/HowToTrainYourModel)
+[Live demo](https://frontier-web-five.vercel.app) · [Documentation](https://frontier-docs-cazz.vercel.app) · [Repository](https://github.com/derek2403/frontier)
 
+## Hackathon achievements
 
----
+### 2026
 
-## 🔍 Exploration Areas  
+- [Startup Village Borneo](https://github.com/derek2403/frontier): 2nd place
+- [Codex Hackathon](https://github.com/avoisavo/codex): ElevenLabs Prize
+- [Superteam Malaysia World Cup Hackathon](https://github.com/derek2403/worldcup): 3rd place
+- [ETHGlobal New York](https://github.com/derek2403/ethnyc): 1st place with Arc and Hedera; 2nd place with World
+- [Monad Blitz NYC](https://github.com/derek2403/blitznyc): 3rd place
+- [Hedera Hello Future Apex](https://github.com/JingYuan0926/spark): 1st place, OpenClaw track
+- [Solana Network State Spring](https://github.com/derek2403/frontier): Honorable Mention
+- [ETHGlobal Cannes](https://github.com/derek2403/cannes2026): Top 10 finalist; 1st place with World and Hedera; 2nd place with 0G
+- [ETHCC 0G Zero Coding](https://github.com/derek2403/0g): Champion
+- [ETHDenver](https://github.com/derek2403/ethdenver): 1st place in 0G iNFT, 2nd place in Hedera SDK, and Canton DevTools winner ([second repository](https://github.com/JingYuan0926/spark))
+- [ETHGlobal HackMoney](https://github.com/derek2403/hackmoney): ENS prize pool winner
+- [First Movers Sprint Vietnam](https://github.com/derek2403/six-seven): 1st place in DeFi
 
-**🌱 Currently diving into:**  
-- 🔐 **Trusted Execution Environments (TEEs)** and secure computation  
-- 🤖 **AI Agent Evolutions** and autonomous system design  
-- 💰 **DeFi protocols** and on-chain financial mechanisms  
-- 🛠 **Low-level blockchain architectures** and protocol-level development  
+### 2025
 
-**📌 Near-term goals:**  
-- 🎯 Identify a long-term project to dedicate my efforts to  
-- 🖥️ Strengthen my ability to code independently without heavy reliance on AI assistance  
-- 🔍 Deep research into **TEE integrations** and **LLM inference optimizations**  
+- [Forte Hacks by Flow](https://github.com/derek2403/dhal-way): 3rd place, Existing Codebase track
+- [ETHOnline](https://github.com/derek2403/pet-pet): 1st place with Blockscout
+- [Token2049 Singapore](https://github.com/derek2403/token2049): Top 5 finalist and 1st place with Celo
+- [ETHGlobal New Delhi](https://github.com/derek2403/ethindia): 1st place with Flow and Hedera Best Overall Project
+- [ETHTokyo](https://github.com/derek2403/ethtokyo): AI track champion and finalist
+- DevQuest: Top 10 finalist *(no public repository)*
+- [IOTA Malaysia Hackathon](https://github.com/derek2403/iota-hackathon): 6th–10th place
+- [ImagineHack](https://github.com/derek2403/tt): Champion
+- [BUIDL Asia Seoul](https://github.com/derek2403/CureMeBaby): Overall champion; 1st place with Gensyn, 2nd place with Nethermind, and NEAR winner
+- [EasyA x Ripple Singapore](https://github.com/derek2403/EasyA-Wiser): 2nd place
+- [ETHGlobal Taipei](https://github.com/derek2403/memest-cutest-platform): 2nd place with 1inch and Celo prize pool winner
+- [ETHGlobal Trifecta](https://github.com/derek2403/TeeTee): Finalist and 2nd place in the TEE track
+- [Eigen Games ETHDenver](https://github.com/derek2403/Hyperbolic-AgentKit): 3rd place with Hyperbolic
+- [Consensus Hong Kong](https://github.com/derek2403/grand-theft-aptos): 3rd place with Aptos
+- [ETHGlobal Agentic Ethereum](https://github.com/derek2403/4AI-1Human): 2nd place with Flow
+- [UiTM Mini Hackathon](https://github.com/JingYuan0926/solananft): 2nd place
 
----
+### 2024
 
-## 📊 GitHub Stats  
+- [PayHack](https://github.com/derek2403/payhack): 3rd place
+- [ETHGlobal Bangkok](https://github.com/derek2403/eThAi): CDP, Blockscout, and Coinbase prize pool winner
+- [ETHKL](https://github.com/derek2403/AI-Food-Rating-App): Finalist; 2nd place with ICP; Worldcoin, Scroll, and Ora prize pool winner
+- [ETHGlobal Singapore](https://github.com/derek2403/NEARer): NEAR winner and Worldcoin prize pool winner
+- [APUBCC Buildstation](https://github.com/derek2403/Solana-AI-Blink-Platform): 2nd place
+- [APUBCC DevMatch](https://github.com/derek2403/Devmatch): Aptos champion
+- [Bridg3 Hackathon](https://github.com/derek2403/Learn2): 3rd place with Sui
+- [Hackinsan](https://github.com/derek2403/Motion-Capture-Web-App): Champion
+- [TARUMT International Hackathon](https://github.com/derek2403/Cybersecurity-Encryption-Decryption-Project): Top 8
+- [Monash Hackfest](https://github.com/JingYuan0926/Hackfest): 9th place
+- UM DSDR: Consolation award *(no public repository)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derek2403&show_icons=true&theme=radical" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derek2403&layout=compact&theme=radical" alt="Top languages" height="180" />
-</p>
+## Interests
 
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-</p>
+- Cross-chain and protocol infrastructure
+- Trusted execution environments and secure computation
+- Threshold cryptography and decentralized signing
+- DeFi and autonomous on-chain systems
 
----
+## Connect
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/derek2403" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:derekliew0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/derek2403" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ "Code. Learn. Innovate." ⭐</i>
-</p>
+[LinkedIn](https://linkedin.com/in/derek2403) · [X](https://twitter.com/derek2403) · [Email](mailto:derekliew0@gmail.com)
