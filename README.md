@@ -95,4 +95,4 @@ The current prototype runs end to end on Solana devnet and Base Sepolia, includi
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/derek2403) · [X](https://twitter.com/derek2403) · [Email](mailto:derekliew0@gmail.com)
+[LinkedIn](https://linkedin.com/in/derek2403) · [X](https://twitter.com/derek2403) · [Email](mailto:derekliew0@gmail.com) · [Telegram](https://t.me/derek2403)
