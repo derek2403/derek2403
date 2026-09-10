@@ -6,8 +6,8 @@ I enjoy turning ambitious ideas into working prototypes, especially through hack
 
 <table>
   <tr>
-    <td align="center"><strong>39</strong><br>Hackathon Wins</td>
-    <td align="center"><strong>61</strong><br>Award Placements</td>
+    <td align="center"><strong>40</strong><br>Hackathon Wins</td>
+    <td align="center"><strong>62</strong><br>Award Placements</td>
   </tr>
 </table>
 
@@ -41,6 +41,7 @@ The current prototype runs end to end on Solana devnet and Base Sepolia, includi
 ### 2026
 
 - [Startup Village Borneo](https://github.com/derek2403/frontier): 2nd place
+- [MUBA Hackathon 2026](https://github.com/lapsapthong-16/muba2026): Gonka Router Top 3 - 10
 - [Codex Hackathon](https://github.com/avoisavo/codex): ElevenLabs Prize
 - [Superteam Malaysia World Cup Hackathon](https://github.com/derek2403/worldcup): 3rd place
 - [ETHGlobal New York](https://github.com/derek2403/ethnyc): 1st place with Arc and Hedera; 2nd place with World
