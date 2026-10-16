@@ -6,8 +6,8 @@ I enjoy turning ambitious ideas into working prototypes, especially through hack
 
 <table>
   <tr>
-    <td align="center"><strong>40</strong><br>Hackathon Wins</td>
-    <td align="center"><strong>62</strong><br>Award Placements</td>
+    <td align="center"><strong>42</strong><br>Hackathon Wins</td>
+    <td align="center"><strong>64</strong><br>Award Placements</td>
   </tr>
 </table>
 
@@ -39,7 +39,8 @@ The current prototype runs end to end on Solana devnet and Base Sepolia, includi
 ## Hackathon achievements
 
 ### 2026
-
+- [Token2049 Origins Hackathon 2026](https://github.com/derek2403/2026token2049): 1st Place in Solana
+- [ETHGlobal Tokyo 2026](https://github.com/derek2403/relay): 1st plane in ENS
 - [Startup Village Borneo](https://github.com/derek2403/frontier): 2nd place
 - [MUBA Hackathon 2026](https://github.com/lapsapthong-16/muba2026): Gonka Router Top 3 - 10
 - [Codex Hackathon](https://github.com/avoisavo/codex): ElevenLabs Prize
